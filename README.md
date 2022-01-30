@@ -2,6 +2,9 @@
 <p>Hi there 👋</p>
 <p>My name is Simão Menezes, i'm a software developer</p>
 
+
+
+  <img align="right" min-width="360px" max-width="400px" width="360px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaomenezes&theme=dracula&hide_langs_below=1" />
 <!--
 **simaomenezes/simaomenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
