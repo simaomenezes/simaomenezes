@@ -2,15 +2,15 @@
 <p>Hi there 👋</p>
 <p>My name is Simão Menezes, i'm a software developer</p>
 
-
-
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=simaomenezes&layout=compact)]
-
 [![wakatime](https://wakatime.com/badge/user/c3ddcf8f-c4c1-4d8b-b745-e4a5e167551c.svg)](https://wakatime.com/@c3ddcf8f-c4c1-4d8b-b745-e4a5e167551c)
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)
+
+|<img align="center" src="https://github-readme-stats.vercel.app/api?username=simaomenezes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"> | 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaomenezes&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
+
+
 <!--
 **simaomenezes/simaomenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
