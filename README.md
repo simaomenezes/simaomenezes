@@ -4,9 +4,9 @@
 
 
 
-  <img align="right" min-width="360px" max-width="400px" width="360px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaomenezes&theme=dracula&hide_langs_below=1" />
+<img align="right" min-width="360px" max-width="400px" width="360px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaomenezes&theme=dracula&hide_langs_below=1" />
 
-
+[![wakatime](https://wakatime.com/badge/user/c3ddcf8f-c4c1-4d8b-b745-e4a5e167551c.svg)](https://wakatime.com/@c3ddcf8f-c4c1-4d8b-b745-e4a5e167551c)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 <!--
