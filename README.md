@@ -3,12 +3,12 @@
 <p>My name is Simão Menezes, i'm a software developer</p>
 
 [![wakatime](https://wakatime.com/badge/user/c3ddcf8f-c4c1-4d8b-b745-e4a5e167551c.svg)](https://wakatime.com/@c3ddcf8f-c4c1-4d8b-b745-e4a5e167551c)
+[![github](https://img.shields.io/github/followers/simaomenezes?logo=github&style=plastic)](https://github.com/simaomenezes?tab=followers)
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)
 
-|<img align="center" src="https://github-readme-stats.vercel.app/api?username=simaomenezes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"> | 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaomenezes&layout=compact&theme=buefy&hide_border=true" /> |
-| ------------- | ------------- |
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=simaomenezes&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=simaomenezes&layout=compact&theme=buefy&hide_border=true" />
 
 
 <!--
