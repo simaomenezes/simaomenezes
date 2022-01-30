@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2>Welcome <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h2>
+<p>Hi there 👋</p>
+<p>My name is Simão Menezes, i'm a software developer</p>
 
 <!--
 **simaomenezes/simaomenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
