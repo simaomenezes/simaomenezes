@@ -8,7 +8,7 @@
 
 
 
-<p>![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green)</p>
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 <!--
 **simaomenezes/simaomenezes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
